@@ -2,6 +2,7 @@ package LinkedList.LinkedList;
 /**
  * A Node that contains a generic object and can be linked to two other Nodes. For
  * use with a linked data type implementation.
+ * @author Ben Aherne
  */
 public class Node<T> {
     private Node<T> previous;

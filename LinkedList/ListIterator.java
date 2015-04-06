@@ -5,6 +5,7 @@ import java.util.Iterator;
 
 /**
  * Used to create an iterable representation of a linked list.
+ * @author Ben Aherne
  */
 @SuppressWarnings("unchecked")
 public class ListIterator<T> implements Iterator<T> {
